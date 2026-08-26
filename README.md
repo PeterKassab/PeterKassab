@@ -21,7 +21,7 @@ At **ExitLag** I'm a Senior Software Engineer and Head of Mobile Game Developmen
 
 - **Front-end:** TypeScript, JavaScript, React, React Native, Next.js, Tailwind CSS, Vite, Lottie/Rive
 - **Back-end & data:** Node.js, C# / ASP.NET Core, REST APIs, SQL Server, relational data modeling
-- **Quality & delivery:** Jest, React Testing Library, telemetry and observability, Git, Azure DevOps, CI/CD
+- **Quality & delivery:** Jest, React Testing Library, telemetry and observability, Git, Azure, Jira DevOps, CI/CD
 - **Also on my desk:** Microsoft Azure, Unity (hypercasual games as side projects)
 
 **📫 Let's connect**
